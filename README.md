@@ -1,4 +1,4 @@
-# UI HOSPITAL MANAGEMENT SYSTEM 
+# HOSPITAL MANAGEMENT SYSTEM 
 -This repository contains the complete UI implementation of a Hospital Management System, including both the high-fidelity designs (wireframes) and the actual user interface code. 
 
 -The project focuses on delivering a clean, intuitive, and user-friendly interface that supports efficient hospital operations and smooth user flows.
